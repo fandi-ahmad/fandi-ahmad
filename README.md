@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 👋 Hi, I'm Fandi Ahmad
+### 💫 About Me:
 👀 I’m interested in the world of programming<br>🌱 I’m currently learning Javascript
 
 
@@ -12,11 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fandi-ahmad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fandi-ahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fandi-ahmad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fandi-ahmad&icon=5&color=1)](https://visitcount.itsvg.in)
