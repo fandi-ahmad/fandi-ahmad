@@ -18,7 +18,7 @@
 [![](https://visitcount.itsvg.in/api?id=fandi-ahmad&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fandi4160@gmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itzfandy) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
