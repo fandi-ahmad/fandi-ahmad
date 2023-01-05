@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fandi Ahmad
 ### 💫 About Me:
-👀 I’m interested in the world of programming<br>🌱 I’m currently learning Javascript
+👀 I’m interested in the world of programming<br>🌱 I’m currently learning for Frontend web development
 
 
 ## 🌐 Socials:
