@@ -18,10 +18,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fandi-ahmad&theme=react&hide_border=true)<br/>
-
----
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itzfandy) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
