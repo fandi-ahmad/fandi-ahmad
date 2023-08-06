@@ -1,6 +1,17 @@
 # 👋 Hi, I'm Fandi Ahmad
+
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 0px">
+
+<div >
+
 ### 💫 About Me:
 👀 I’m interested in the world of programming<br>🌱 I’m currently learning for Frontend web development
+</div>
+
+<img src="programmer.png" alt="" style="width: 300px">
+
+</div>
+
 
 
 ## 🌐 Socials:
