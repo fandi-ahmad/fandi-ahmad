@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <!-- Image by catalyststuff on Freepik -->
-<img align="right" src="programmer.png" alt="" width="250">
+<a target="_blank" rel="noreferrer" href="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=programmer&from_query=progrmmer&position=4&from_view=search&track=sph">
+    <img align="right" src="programmer.png" alt="" width="250">
+</a>
 
 - 🌱 I’m currently learning **React, Node js**
 
@@ -34,7 +36,6 @@
 # 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandi-ahmad&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="fandi-ahmad" /></p>
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fandi-ahmad&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="fandi-ahmad" /></p> -->
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fandi-ahmad&theme=react&hide_border=true" alt="fandi-ahmad" /></p>
