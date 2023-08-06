@@ -4,8 +4,9 @@
 
 <div >
 
-### 💫 About Me:
-👀 I’m interested in the world of programming<br>🌱 I’m currently learning for Frontend web development
+<h3>💫 About Me:</h3>
+<div>👀 I’m interested in the world of programming</div>
+<div>🌱 I’m currently learning for Frontend web development</div>
 </div>
 
 <img src="programmer.png" alt="" style="width: 300px">
