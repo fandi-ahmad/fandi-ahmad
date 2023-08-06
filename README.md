@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fandi Ahmad</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <!-- Image by catalyststuff on Freepik -->
 <img align="right" src="programmer.png" alt="" width="250">
@@ -10,10 +10,11 @@
 
 - 💬 Ask me about **Web Programming**
 
-## 🌐 Socials:
+<h2> 🌐 Socials: </h2>
+
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/itzfandy) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzfandy) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itzfandy) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fandijsx) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fandi.jsx) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/itzfandy) 
 
 # 💻 Tech Stack:
@@ -34,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandi-ahmad&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="fandi-ahmad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fandi-ahmad&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="fandi-ahmad" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fandi-ahmad&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="fandi-ahmad" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fandi-ahmad&theme=react&hide_border=true" alt="fandi-ahmad" /></p>
 
