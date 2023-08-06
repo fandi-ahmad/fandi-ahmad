@@ -13,8 +13,8 @@
 <h2> 🌐 Socials: </h2>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/itzfandy) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fandijsx) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fandi.jsx) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fandi.jsx) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fandijsx) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/itzfandy) 
 
 # 💻 Tech Stack:
@@ -33,11 +33,11 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandi-ahmad&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="fandi-ahmad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandi-ahmad&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="fandi-ahmad" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fandi-ahmad&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="fandi-ahmad" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fandi-ahmad&theme=react&hide_border=true" alt="fandi-ahmad" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fandi-ahmad&theme=react&hide_border=true" alt="fandi-ahmad" /></p>
 
 
 
