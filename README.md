@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Programming**
 
-<h2> 🌐 Socials: </h2>
+<h3> 🌐 Socials: </h3>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/itzfandy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fandi.jsx) 
