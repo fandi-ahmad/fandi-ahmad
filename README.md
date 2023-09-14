@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Node js**
 
-- 👨‍💻 All of my projects are available at [fandi-ahmad.github.io](fandi-ahmad.github.io)
+- 👨‍💻 All of my projects are available at [fandi-ahmad.github.io](https://fandi-ahmad.github.io)
 
 - 💬 Ask me about **Web Programming**
 
