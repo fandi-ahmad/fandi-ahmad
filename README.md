@@ -3,7 +3,7 @@
 
 <!-- Image by catalyststuff on Freepik -->
 <a target="_blank" rel="noreferrer" href="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=programmer&from_query=progrmmer&position=4&from_view=search&track=sph">
-    <img align="right" src="programmer.png" alt="" width="250">
+    <img align="right" src="programmer.png" alt="" width="220">
 </a>
 
 - 🌱 I'm focusing on the JavaScript programming language and its supporting frameworks
