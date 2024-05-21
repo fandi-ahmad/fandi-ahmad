@@ -6,7 +6,7 @@
     <img align="right" src="programmer.png" alt="" width="250">
 </a>
 
-- 🌱 Currently I am focusing on the JavaScript programming language and its supporting frameworks, such as **Next js, React js, Vue js and express js**
+- 🌱 I'm focusing on the JavaScript programming language and its supporting frameworks
 
 - 👨‍💻 All of my projects are available at [fandi-ahmad.github.io](https://fandi-ahmad.github.io)
 
