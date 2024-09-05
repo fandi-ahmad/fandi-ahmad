@@ -8,7 +8,7 @@
 
 - 🌱 I'm focusing on the JavaScript programming language and its supporting frameworks
 
-- 👨‍💻 All of my projects are available at [fandi-ahmad.vercel.app](https://fandi-ahmad.vercel.app/)
+- 👨‍💻 All of my projects are available at [fandiahmad.vercel.app](https://fandiahmad.vercel.app/)
 
 - 💬 Ask me about **Web Programming**
 
