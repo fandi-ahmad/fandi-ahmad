@@ -1,37 +1,78 @@
+<a href="https://pin.it/7uvSji3">
+    <img style="width: 100%; height: 170px; object-fit: cover;" src="PrivateGIF.gif" alt="">
+</a>
+
 <h1 align="center">Hi 👋, I'm Fandi Ahmad</h1>
 <h3 align="center">Full Web Stack Developer</h3>
 
 <!-- Image by catalyststuff on Freepik -->
-<a target="_blank" rel="noreferrer" href="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=programmer&from_query=progrmmer&position=4&from_view=search&track=sph">
+<!-- <a target="_blank" rel="noreferrer" href="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=programmer&from_query=progrmmer&position=4&from_view=search&track=sph">
     <img align="right" src="programmer.png" alt="" width="220">
-</a>
+</a> -->
 
+A passionate and dedicated Full Stack Web Developer with a strong backgrounf  in frontend and backend development. Some if the projects I create, are created with JavaScript.
 - 🌱 I'm focusing on the JavaScript programming language and its supporting frameworks
-
 - 👨‍💻 All of my projects are available at [fandiahmad.vercel.app](https://fandiahmad.vercel.app/)
-
 - 💬 Ask me about **Web Programming**
 
-<h3> 🌐 Socials: </h3>
+## 📌 What I Do
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/itzfandy) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fandi.jsx) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fandijsx) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/itzfandy) 
+<div style="display: flex; justify-content: space-between; justify-content: center; gap: 8px;">
+  <div style="border: 1px solid white; border-radius: 4px; padding: 20px; width: 100%;">
+    <div style="font-size: large; font-weight: 700;">Web Development</div>
+    Website development, suitable for company or indiviual profiles supported by modern technology.
+  </div>
 
-# 💻 Tech Stack:
- 
-<p align="left">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+  <div style="border: 1px solid white; border-radius: 4px; padding: 20px; width: 100%;">
+    <div style="font-size: large; font-weight: 700;">Web Based Aplication</div>
+    Design and development of website-based applications, such as archive system, data management, sales, and many more.
+  </div>
+</div>
+
+
+
+
+## 🌐 Socials:
+
+<div style="display: flex; flex-direction: row; justify-items: center; gap: 6px">
+  <a target="_blank" rel="noreferrer" href="https://instagram.com/fandi.jsx">
+    <img src="logo/instagram.webp" width="30" height="30" style="object-fit: contain" />
+  </a>
+  
+  <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/fandijsx">
+    <img src="logo/linkedin.png" width="30" height="30" style="object-fit: contain" />
+  </a>
+
+  <a target="_blank" rel="noreferrer" href="https://medium.com/@fandi-ahmad">
+    <img src="logo/medium.svg" width="30" height="30" style="object-fit: contain" />
+  </a>
+
+</div>
+
+
+## 💻 Tech Stack:
+
+<div align="left" style="display:flex; flex-wrap: wrap; gap: 6px">
+  <img src="logo/javascript.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/typescript.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/next_js.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/react_js.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/vue_js.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/vite.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/nodejs-icon.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/express_js.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/bootstrap.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/tailwind_CSS.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/material_UI.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/redux.svg" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/git.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/prisma.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/firebase.png" width="34" height="34" style="object-fit: contain"/>
+  <img src="logo/supabase.png" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/clerk.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/mysql.png" width="34" height="34" style="object-fit: contain"/>
+  <img src="logo/figma.webp" width="34" height="34" style="object-fit: contain" />
+</div>
 
 # 📊 GitHub Stats:
 
