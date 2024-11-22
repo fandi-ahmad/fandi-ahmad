@@ -1,8 +1,9 @@
-<a href="https://pin.it/7uvSji3">
-  <img style="width: 100% !important; height: 170px; object-fit: cover;" src="PrivateGIF.gif" alt="">
-</a>
+<center>
+  <a href="https://pin.it/7uvSji3">
+    <img style="width: 100% !important; height: 170px; object-fit: cover;" src="PrivateGIF.gif" alt="">
+  </a>
+</center>
 
-<img style="width: 100% !important; height: 170px; object-fit: cover;" src="PrivateGIF.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Fandi Ahmad</h1>
 <h3 align="center">Full Web Stack Developer</h3>
