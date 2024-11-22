@@ -2,6 +2,8 @@
   <img style="width: 100% !important; height: 170px; object-fit: cover;" src="PrivateGIF.gif" alt="">
 </a>
 
+<img style="width: 100% !important; height: 170px; object-fit: cover;" src="PrivateGIF.gif" alt="">
+
 <h1 align="center">Hi 👋, I'm Fandi Ahmad</h1>
 <h3 align="center">Full Web Stack Developer</h3>
 
