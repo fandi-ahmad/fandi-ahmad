@@ -1,5 +1,5 @@
 <a href="https://pin.it/7uvSji3">
-    <img style="width: 100%; height: 170px; object-fit: cover;" src="PrivateGIF.gif" alt="">
+  <img style="width: 100% !important; height: 170px; object-fit: cover;" src="PrivateGIF.gif" alt="">
 </a>
 
 <h1 align="center">Hi 👋, I'm Fandi Ahmad</h1>
@@ -17,19 +17,11 @@ A passionate and dedicated Full Stack Web Developer with a strong backgrounf  in
 
 ## 📌 What I Do
 
-<div style="display: flex; justify-content: space-between; justify-content: center; gap: 8px;">
-  <div style="border: 1px solid white; border-radius: 4px; padding: 20px; width: 100%;">
-    <div style="font-size: large; font-weight: 700;">Web Development</div>
-    Website development, suitable for company or indiviual profiles supported by modern technology.
-  </div>
+- `Web Development`
+Website development, suitable for company or indiviual profiles supported by modern technology.
 
-  <div style="border: 1px solid white; border-radius: 4px; padding: 20px; width: 100%;">
-    <div style="font-size: large; font-weight: 700;">Web Based Aplication</div>
-    Design and development of website-based applications, such as archive system, data management, sales, and many more.
-  </div>
-</div>
-
-
+- `Web Based Aplication`
+Design and development of website-based applications, such as archive system, data management, sales, and many more.
 
 
 ## 🌐 Socials:
@@ -53,25 +45,25 @@ A passionate and dedicated Full Stack Web Developer with a strong backgrounf  in
 ## 💻 Tech Stack:
 
 <div align="left" style="display:flex; flex-wrap: wrap; gap: 6px">
-  <img src="logo/javascript.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/typescript.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/next_js.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/react_js.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/vue_js.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/vite.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/nodejs-icon.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/express_js.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/bootstrap.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/tailwind_CSS.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/material_UI.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/redux.svg" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/git.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/prisma.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/firebase.png" width="34" height="34" style="object-fit: contain"/>
-  <img src="logo/supabase.png" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/clerk.webp" width="34" height="34" style="object-fit: contain" />
-  <img src="logo/mysql.png" width="34" height="34" style="object-fit: contain"/>
-  <img src="logo/figma.webp" width="34" height="34" style="object-fit: contain" />
+  <img src="logo/javascript.webp" width="34" height="34" />
+  <img src="logo/typescript.webp" width="34" height="34" />
+  <img src="logo/next_js.webp" width="34" height="34" />
+  <img src="logo/react_js.webp" width="34" height="34" />
+  <img src="logo/vue_js.webp" width="34" height="34" />
+  <img src="logo/vite.webp" width="34" height="34" />
+  <img src="logo/nodejs-icon.webp" width="34" height="34" />
+  <img src="logo/express_js.webp" width="34" height="34" />
+  <img src="logo/bootstrap.webp" width="34" height="34" />
+  <img src="logo/tailwind_CSS.webp" width="34" height="34" />
+  <img src="logo/material_UI.webp" width="34" height="34" />
+  <img src="logo/redux.svg" width="34" height="34" />
+  <img src="logo/git.webp" width="34" height="34" />
+  <img src="logo/prisma.webp" width="34" height="34" />
+  <img src="logo/firebase.png" width="34" height="34" >
+  <img src="logo/supabase.png" width="34" height="34" />
+  <img src="logo/clerk.webp" width="34" height="34" />
+  <img src="logo/mysql.png" width="34" height="34" >
+  <img src="logo/figma.webp" width="34" height="34" />
 </div>
 
 # 📊 GitHub Stats:
