@@ -6,7 +6,7 @@
     <img align="right" src="programmer.png" alt="" width="220">
 </a> -->
 
-A passionate and dedicated Full Stack Web Developer with a strong backgrounf  in frontend and backend development. Some if the projects I create, are created with JavaScript.
+A passionate and dedicated Full Stack Web Developer with a strong background in frontend and backend development. Some if the projects I create, are created with JavaScript.
 
 - 🔭 I’m currently working on improving my skills in full-stack development.
 - 🌱 I'm focusing on the JavaScript programming language and its supporting frameworks
